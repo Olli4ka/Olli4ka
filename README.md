@@ -1,4 +1,7 @@
 ## Hi there 👋 I'm Olga😉
+<div align="center">
+  <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="600" height="200"/>
+</div>
 
 <!--
 **Olli4ka/Olli4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
