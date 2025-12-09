@@ -1,5 +1,7 @@
-## Hi there 👋 I'm Olga😉
-<div align="center">
+<div align="center"> 
+<p>Hi there 👋 I'm Olga😉</p>
+</div>
+<div align="center"> 
   <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="600" height="200"/>
 </div>
 
