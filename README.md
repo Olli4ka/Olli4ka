@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20&cacheSeconds=3600&border_radius=8_0_0_8" />
   </a>
 </p>
-<p>Hi there 👋 I'm Olga😉</p>
+<h3>Hi there 👋 I'm Olga😉</h3>
 <p>
 I'm learning Python and growing as a developer.  
 I like to understand how things work under the hood, not just make them run.
@@ -19,13 +19,14 @@ Turning curiosity into projects and mistakes into experience.
 Focused on practical skills, clean setups, continuous learning,  
 and automating what can be automated.
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,docker&theme=light"/>
+
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,docker&theme=light"/>
 
 
 <!--
