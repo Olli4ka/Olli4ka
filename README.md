@@ -1,18 +1,31 @@
 <div align="center"> 
   <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="600" height="200"/>
 </div>
-<p align="center">
+
+
+<div> 
+<p>
   <a href="https://www.linkedin.com/in/olga-panaiot-8b46683a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20&cacheSeconds=3600&border_radius=8_0_0_8" />
   </a>
-  <a href="mailto:panayot.olga@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&logoWidth=20&cacheSeconds=3600&border_radius=0_8_8_0" />
-  </a>
 </p>
-
-<div align="center"> 
 <p>Hi there 👋 I'm Olga😉</p>
+<p>
+I'm learning Python and growing as a developer.  
+I like to understand how things work under the hood, not just make them run.
+
+Building projects, breaking things, fixing them — and learning along the way.  
+Turning curiosity into projects and mistakes into experience.  
+Focused on practical skills, clean setups, continuous learning,  
+and automating what can be automated.
+</p>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,docker&theme=light"/>
 
 
 <!--
