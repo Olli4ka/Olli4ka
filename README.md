@@ -23,7 +23,7 @@ and automating what can be automated.
 <img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,docker&theme=light"/>
 
 </div>
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
