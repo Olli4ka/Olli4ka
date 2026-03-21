@@ -20,7 +20,7 @@ Turning curiosity into projects and mistakes into experience.
 Focused on practical skills, clean setups, continuous learning, and automating what can be automated.
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,docker,postgres&theme=light"/>
+<img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,selenium,docker,postgres&theme=light"/>
 </div>
 
 
