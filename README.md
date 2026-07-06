@@ -4,11 +4,6 @@
 
 
 <div> 
-<p>
-  <a href="https://www.linkedin.com/in/olga-panaiot-8b46683a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20&cacheSeconds=3600&border_radius=8_0_0_8" />
-  </a>
-</p>
 <h3>Hi there, I'm Olga ✋</h3>
 <p>
 I'm learning Python and growing as a developer.
@@ -20,9 +15,11 @@ Turning curiosity into projects and mistakes into experience.
 Focused on practical skills, clean setups, continuous learning, and automating what can be automated.
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,selenium,docker,postgres,django&theme=light"/>
+<img src="https://skillicons.dev/icons?i=py,pycharm,git,html,css,docker,postgres,django&theme=light"/>
 </div>
-
+<p>
+<b>Django REST Framework • JWT • Swagger • pytest</b>
+</p>
 
 
 
