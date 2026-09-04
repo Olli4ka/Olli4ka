@@ -32,11 +32,13 @@
 <h3>Featured Projects</h3>
 
 <p>
-  📚 <b>StoryVault API</b> — Django REST Framework backend with JWT,
-  filtering, pagination, permissions, and custom API actions.
+  🥗 <b>Recipe GraphQL API</b> — A production-oriented GraphQL API for managing recipes, ingredients, categories, reviews, and favorites. Built with Django, Graphene-Django, PostgreSQL, JWT authentication, Docker Compose, Gunicorn, and Nginx.
   <br>
-  🥗 <b>Recipe GraphQL API</b> — GraphQL backend with JWT authentication,
-  PostgreSQL, Docker, Gunicorn, Nginx, and pytest.
+  📚 <b>StoryVault API</b> — A REST API for a book-sharing club, built with Django REST Framework. Includes authentication, permissions, filtering, pagination, custom actions, and automated testing.
+  <br>
+  🤖 <b>AI Blog API</b> — A REST API built with Django REST Framework, featuring JWT authentication, role-based permissions, OpenAPI documentation, filtering, pagination, and automated testing.
+  <br>
+  🖼️ <b>Image Hosting Server</b> — A Python web application for uploading, storing, and viewing images. Built with pure Python, PostgreSQL, and Docker, with pagination and image thumbnails.
 </p>
 </div>
 
