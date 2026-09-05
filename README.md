@@ -21,13 +21,12 @@
 
   <h3>Languages and Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=py,pycharm,django,graphql,postgres,docker,git,html,css&theme=light"/>
-
+<img src="https://skillicons.dev/icons?i=py,js,html,css,django,graphql,postgres,docker,git,pycharm&theme=light"/>
 <p>
   <b>Backend:</b> Django • Django REST Framework • GraphQL • JWT
   <br>
-  <b>Testing & API:</b> pytest • Swagger
-</p> 
+  <b>Testing & API:</b> pytest • OpenAPI / Swagger
+</p>
 
 <h3>Featured Projects</h3>
 
